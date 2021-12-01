@@ -1,0 +1,20 @@
+[
+    {
+        "name": "React.UseEffect",
+        "desc": "A functional React component uses props and/or state to calculate the output. If the functional component makes calculations that don’t target the output value, then these calculations are named",
+        "link": "https://medium.com/@infoani7/a-simple-explanation-of-react-useeffect-1f988c00af5c"
+        
+    },
+    {
+        "name": "UseReducer Hook",
+        "desc": "useReducer can be initially a little confusing but if you’re comfortable with the pattern of",
+        "link": "https://medium.com/@infoani7/usereducer-hook-2108176302a7"
+       
+    },
+    {
+        "name": "Redux Toolkit Library",
+        "desc": "The library is called Redux Toolkit and is described as SOPE which stands for Simple, Opinionated, Powerful and Effective. You might be having questions like why is it called all this? ",
+        "link": "https://medium.com/@infoani7/why-you-should-use-redux-toolkit-library-dabff7002cec"
+       
+    }
+]

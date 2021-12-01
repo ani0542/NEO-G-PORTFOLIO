@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Do you know me?",
+        "desc": "A CLI app built with nodeJS. You can play this game to find out how well you know me.",
+        "live": "https://replit.com/@AnimeshAwasthi3/ImprobableCrookedWorkplace#index.js",
+        "code": "https://github.com/ani0542/Do-you-know-me-..-neoG"
+    },
+    {
+        "name": "Do you know Varanasi?",
+        "desc": "A CLI app built with nodeJS. It is a JavaScript CLI quiz app about Praygraj. It is fun game, at last it will return the results of the quationair",
+        "live": "https://replit.com/@AnimeshAwasthi3/ImprobableCrookedWorkplace#index.js",
+        "code": "https://github.com/ani0542/do-you-know-Banaras-"
+    },
+    {
+        "name": "Banana Talk",
+        "desc": "Banana Translator App using Minion API. this is application is made using HTML, CSS and vanila JavaScript",
+        "live": "https://friendly-bell-978cd9.netlify.app/",
+        "code": "https://github.com/ani0542/Banana-Talk-NEO-G"
+    },
+    {
+        "name": "Yoda Talk",
+        "desc": "Fun Translation App using Yoda API. this is application is made using HTML, CSS and vanila JavaScript",
+        "live": "https://hardcore-jackson-860436.netlify.app/",
+        "code": "https://github.com/ani0542/YODA-TALK-NEO-G"
+    },
+    {
+        "name": "Emoji-Interpreter App",
+        "desc": "This is an emoji Interpreter App made using React on CodeSandBox Platform, An Application which has basic React features like hooks and reuasable components",
+        "live": "https://tender-johnson-31b10b.netlify.app/",
+        "code": "https://github.com/ani0542/EMOJI-INTERPRETER-NEO-G"
+    },
+    {
+        "name": "Music Recommend. App 🎵",
+        "desc": "This app recommends Music with different genres too & made using React.",
+        "live": "https://oxbwl.csb.app/",
+        "code": "https://github.com/ani0542/MUSIC-APP-NEO-G"
+    },
+    {
+        "name": "Cash Register Manager 💸",
+        "desc": "The app tells the cashier/user the amount to be returned in change to the customer with the minimum number of notes.",
+        "live": "https://elegant-turing-d4e7eb.netlify.app/",
+        "code": "https://github.com/ani0542/cash-register-manager-neo-G"
+    },
+    {
+        "name": "Is your Birthday Lucky??",
+        "desc": "A website which checks whether your birthday is lucky or not by calculating if sum of digits in your birthdate is divisible by your lukcy number",
+        "live": "https://serene-lewin-fb5bc7.netlify.app/",
+        "code": "https://github.com/ani0542/lucky-birthday"
+    },
+    {
+        "name": "Fun with Triangles🔺",
+        "desc": "A simple yet powerful tool for learning about triangles., An Application where all the basic calculation related to Triangle can be solved, like finding area, finding whther triangle is possible or not, a quizz related to the triangle which will return the score you earn, it is fun! Play it now!",
+        "live": "https://mytriangle.netlify.app/",
+        "code": "https://github.com/ani0542/fun-with-triangle"
+    },
+    {
+        "name": "Palindrome Birthday App",
+        "desc": "This website is just made for fun with Vanilla JS to build logic by checking whether the given birthdate is palindrome or not...",
+        "live": "https://app.netlify.com/sites/elated-mccarthy-41085b/overview",
+        "code": "https://github.com/ani0542/PALINDROME-BIRTHDAY-NEO-G"
+    },
+    {
+        "name": "Stock profit & Loss Calculator App",
+        "desc": "Just an fun app to check whether you are lucky or not...",
+        "live": "https://serene-fermat-a6fb92.netlify.app/",
+        "code": "https://github.com/ani0542/Stock-profit-Loss-Calculator-App-NEO-G"
+    }
+  
+]

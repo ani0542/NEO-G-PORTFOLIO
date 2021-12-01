@@ -1,0 +1,37 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background: red;
+    color: white;
+    /* border-radius: 0 0 1rem 1rem; */
+    font-family: 'Josefin Slab', serif;
+    font-size: 1.5rem;
+}
+#lists_head{
+    list-style-type: none;
+    display: flex;
+}
+.list_head{
+    margin: 0 1rem;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+@media(max-width:768px){
+    #header{
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+    .list_head{
+        margin: 0 5px;
+        font-size: 1rem;
+    }
+    #lists_head{
+        margin: 0;
+        padding: 0;
+    }
+}
